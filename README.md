@@ -1,5 +1,5 @@
 # cyberrun-website
-# Hi there, I'm Lina Aljohani! 👋
+# Hi there, I'm Lina! 👋
 
 ## 🚀 Featured Group Project: CyberRun
 I’m proud to have co-developed CyberRun, a gamified cybersecurity learning platform. 
